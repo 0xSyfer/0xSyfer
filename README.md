@@ -2,7 +2,7 @@
 
 <p align="center"><b>Developer · Web applications · Crypto &amp; creative technology</b></p>
 
-<p align="center"><a href="https://github.com/IDONTSHOWSYFER?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/IDONTSHOWSYFER?style=for-the-badge&amp;logo=github&amp;label=followers"/></a> <a href="https://github.com/IDONTSHOWSYFER?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repositories-7-6250d6?style=for-the-badge&amp;logo=github"/></a> <a href="https://x.com/0xSyfer"><img alt="X" src="https://img.shields.io/badge/X-0xSyfer-000000?style=for-the-badge&amp;logo=x"/></a></p>
+<p align="center"><a href="https://github.com/IDONTSHOWSYFER?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/IDONTSHOWSYFER?style=for-the-badge&amp;logo=github&amp;label=followers"/></a> <a href="https://github.com/IDONTSHOWSYFER?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repositories-8-6250d6?style=for-the-badge&amp;logo=github"/></a> <a href="https://x.com/0xSyfer"><img alt="X" src="https://img.shields.io/badge/X-0xSyfer-000000?style=for-the-badge&amp;logo=x"/></a></p>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg"/><img alt="GitHub overview" src="./assets/stats-light.svg" width="100%"/></picture></p>
 
@@ -18,9 +18,9 @@
 
 - [Syfer](https://github.com/IDONTSHOWSYFER/Syfer) ★1: Source code and documentation
 
-- [Lilpump](https://github.com/IDONTSHOWSYFER/Lilpump) ★0: ESSKEETIT - Ultra-smooth, animated one-page site for Lil Pump’s $LILPUMP memecoin on Solana. Dark-rose &amp; dark-green rap aesthetic, scroll-triggered vi
+- [mihao](https://github.com/IDONTSHOWSYFER/mihao) ★0: MI HAO: Warrior Cat — a free browser beat&#x27;em-up for the $MIHAO community
 
-- [Lust](https://github.com/IDONTSHOWSYFER/Lust) ★0: Lust is a professional website for photographer Esteban Luiz, offering an elegant interface to showcase galleries, manage portfolios, and allow client
+- [Lilpump](https://github.com/IDONTSHOWSYFER/Lilpump) ★0: ESSKEETIT - Ultra-smooth, animated one-page site for Lil Pump’s $LILPUMP memecoin on Solana. Dark-rose &amp; dark-green rap aesthetic, scroll-triggered vi
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/top-stars-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/top-stars-light.svg"/><img alt="Most starred repositories" src="./assets/top-stars-light.svg" width="100%"/></picture></p>
 
@@ -48,10 +48,12 @@
 
 - [Lust](https://github.com/IDONTSHOWSYFER/Lust) ★0: Lust is a professional website for photographer Esteban Luiz, offering an elegant interface to showcase galleries, manage portfolios, and al
 
+- [mihao](https://github.com/IDONTSHOWSYFER/mihao) ★0: MI HAO: Warrior Cat — a free browser beat&#x27;em-up for the $MIHAO community
+
 - [Syfer](https://github.com/IDONTSHOWSYFER/Syfer) ★1: 
 
 ## Say hi
 
 Follow me on [GitHub](https://github.com/IDONTSHOWSYFER) or [X @0xSyfer](https://x.com/0xSyfer).
 
-<p align="center"><sub>Auto-generated from GitHub public repositories · 7 repositories · 6 stars.</sub></p>
+<p align="center"><sub>Auto-generated from GitHub public repositories · 8 repositories · 6 stars.</sub></p>
