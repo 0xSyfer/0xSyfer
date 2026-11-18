@@ -2,7 +2,7 @@
 
 <p align="center"><b>Developer · Web applications · Crypto &amp; creative technology</b></p>
 
-<p align="center"><a href="https://github.com/IDONTSHOWSYFER?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/IDONTSHOWSYFER?style=for-the-badge&amp;logo=github&amp;label=followers"/></a> <a href="https://github.com/IDONTSHOWSYFER?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repositories-8-6250d6?style=for-the-badge&amp;logo=github"/></a> <a href="https://x.com/0xSyfer"><img alt="X" src="https://img.shields.io/badge/X-0xSyfer-000000?style=for-the-badge&amp;logo=x"/></a></p>
+<p align="center"><a href="https://github.com/0xSyfer?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/0xSyfer?style=for-the-badge&amp;logo=github&amp;label=followers"/></a> <a href="https://github.com/0xSyfer?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repositories-8-6250d6?style=for-the-badge&amp;logo=github"/></a> <a href="https://x.com/0xSyfer"><img alt="X" src="https://img.shields.io/badge/X-0xSyfer-000000?style=for-the-badge&amp;logo=x"/></a></p>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg"/><img alt="GitHub overview" src="./assets/stats-light.svg" width="100%"/></picture></p>
 
@@ -10,17 +10,17 @@
 
 ## Start here
 
-- [LamaLinkedIn](https://github.com/IDONTSHOWSYFER/LamaLinkedIn) ★2: Lama LinkedIn is a Chrome extension that boosts LinkedIn prospecting with a guided mode and an agent-assisted mode: like highlighting, smart comment/m
+- [LamaLinkedIn](https://github.com/0xSyfer/LamaLinkedIn) ★2: Lama LinkedIn is a Chrome extension that boosts LinkedIn prospecting with a guided mode and an agent-assisted mode: like highlighting, smart comment/m
 
-- [GTRX](https://github.com/IDONTSHOWSYFER/GTRX) ★2: Introducing $GTRX, the revolutionary MemeCoin on the Tron blockchain, launched on SunPump ! Join the movement, embrace the power of memes, and be part
+- [GTRX](https://github.com/0xSyfer/GTRX) ★2: Introducing $GTRX, the revolutionary MemeCoin on the Tron blockchain, launched on SunPump ! Join the movement, embrace the power of memes, and be part
 
-- [IDONTSHOWSYFER](https://github.com/IDONTSHOWSYFER/IDONTSHOWSYFER) ★1: Source code and documentation
+- [0xSyfer](https://github.com/0xSyfer/0xSyfer) ★1: Source code and documentation
 
-- [Syfer](https://github.com/IDONTSHOWSYFER/Syfer) ★1: Source code and documentation
+- [Syfer](https://github.com/0xSyfer/Syfer) ★1: Source code and documentation
 
-- [mihao](https://github.com/IDONTSHOWSYFER/mihao) ★0: MI HAO: Warrior Cat — a free browser beat&#x27;em-up for the $MIHAO community
+- [mihao](https://github.com/0xSyfer/mihao) ★0: MI HAO: Warrior Cat — a free browser beat&#x27;em-up for the $MIHAO community
 
-- [Lilpump](https://github.com/IDONTSHOWSYFER/Lilpump) ★0: ESSKEETIT - Ultra-smooth, animated one-page site for Lil Pump’s $LILPUMP memecoin on Solana. Dark-rose &amp; dark-green rap aesthetic, scroll-triggered vi
+- [Lilpump](https://github.com/0xSyfer/Lilpump) ★0: ESSKEETIT - Ultra-smooth, animated one-page site for Lil Pump’s $LILPUMP memecoin on Solana. Dark-rose &amp; dark-green rap aesthetic, scroll-triggered vi
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/top-stars-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="./assets/top-stars-light.svg"/><img alt="Most starred repositories" src="./assets/top-stars-light.svg" width="100%"/></picture></p>
 
@@ -36,24 +36,24 @@
 
 ## All repositories
 
-- [GCT](https://github.com/IDONTSHOWSYFER/GCT) ★0: Grumpycator is a fun platform to create, customize, and save your own grumpy cat. Use playful tools to design unique and quirky feline frien
+- [GCT](https://github.com/0xSyfer/GCT) ★0: Grumpycator is a fun platform to create, customize, and save your own grumpy cat. Use playful tools to design unique and quirky feline frien
 
-- [GTRX](https://github.com/IDONTSHOWSYFER/GTRX) ★2: Introducing $GTRX, the revolutionary MemeCoin on the Tron blockchain, launched on SunPump ! Join the movement, embrace the power of memes, a
+- [GTRX](https://github.com/0xSyfer/GTRX) ★2: Introducing $GTRX, the revolutionary MemeCoin on the Tron blockchain, launched on SunPump ! Join the movement, embrace the power of memes, a
 
-- [IDONTSHOWSYFER](https://github.com/IDONTSHOWSYFER/IDONTSHOWSYFER) ★1: 
+- [0xSyfer](https://github.com/0xSyfer/0xSyfer) ★1: 
 
-- [LamaLinkedIn](https://github.com/IDONTSHOWSYFER/LamaLinkedIn) ★2: Lama LinkedIn is a Chrome extension that boosts LinkedIn prospecting with a guided mode and an agent-assisted mode: like highlighting, smart
+- [LamaLinkedIn](https://github.com/0xSyfer/LamaLinkedIn) ★2: Lama LinkedIn is a Chrome extension that boosts LinkedIn prospecting with a guided mode and an agent-assisted mode: like highlighting, smart
 
-- [Lilpump](https://github.com/IDONTSHOWSYFER/Lilpump) ★0: ESSKEETIT - Ultra-smooth, animated one-page site for Lil Pump’s $LILPUMP memecoin on Solana. Dark-rose &amp; dark-green rap aesthetic, scroll-tr
+- [Lilpump](https://github.com/0xSyfer/Lilpump) ★0: ESSKEETIT - Ultra-smooth, animated one-page site for Lil Pump’s $LILPUMP memecoin on Solana. Dark-rose &amp; dark-green rap aesthetic, scroll-tr
 
-- [Lust](https://github.com/IDONTSHOWSYFER/Lust) ★0: Lust is a professional website for photographer Esteban Luiz, offering an elegant interface to showcase galleries, manage portfolios, and al
+- [Lust](https://github.com/0xSyfer/Lust) ★0: Lust is a professional website for photographer Esteban Luiz, offering an elegant interface to showcase galleries, manage portfolios, and al
 
-- [mihao](https://github.com/IDONTSHOWSYFER/mihao) ★0: MI HAO: Warrior Cat — a free browser beat&#x27;em-up for the $MIHAO community
+- [mihao](https://github.com/0xSyfer/mihao) ★0: MI HAO: Warrior Cat — a free browser beat&#x27;em-up for the $MIHAO community
 
-- [Syfer](https://github.com/IDONTSHOWSYFER/Syfer) ★1: 
+- [Syfer](https://github.com/0xSyfer/Syfer) ★1: 
 
 ## Say hi
 
-Follow me on [GitHub](https://github.com/IDONTSHOWSYFER) or [X @0xSyfer](https://x.com/0xSyfer).
+Follow me on [GitHub](https://github.com/0xSyfer) or [X @0xSyfer](https://x.com/0xSyfer).
 
 <p align="center"><sub>Auto-generated from GitHub public repositories · 8 repositories · 6 stars.</sub></p>
